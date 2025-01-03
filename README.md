@@ -22,8 +22,8 @@ The Personal Finance Management System is a console-based application that helps
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/finance-manager.git
-   cd finance-manager
+   git clone https://github.com/amirhamja4bd/PersonalFinanceManagementSystem.git
+   cd PersonalFinanceManagementSystem
    ```
 
 3. **Compile the Code:**
